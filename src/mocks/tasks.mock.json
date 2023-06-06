@@ -1,0 +1,17 @@
+[
+  {
+    "id": 213123123,
+    "task": "Estudar 2 horas",
+    "completed": false
+  },
+  {
+    "id": 98482375,
+    "task": "Ir para academia",
+    "completed": false
+  },
+  {
+    "id": 38748273,
+    "task": "Beber 3 litros de água",
+    "completed": true
+  }
+]
